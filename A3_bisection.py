@@ -1,15 +1,3 @@
-'''
-    CISC-121 2022F
-
-    Name: Kashan Rauf
-    Student Number: 20369391
-    Email: 22kr11@queensu.ca
-    Date: 2022-28-10
-
-    I confirm that this assignment solution is my own work and conforms to
-    Queen's standards of Academic Integrity
-'''
-
 def bisection_zero(f_x, a_i, b_i):
     """
     Finds one zero of the polynomial by using the bisection method.
